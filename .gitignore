@@ -8,4 +8,4 @@
 **/*.pyc
 .DS_Store
 *.tgz
-*.terraform
+*.terraform*
